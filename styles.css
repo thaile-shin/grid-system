@@ -1,0 +1,12 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+.card-item {
+    border: 1px dashed orange;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
